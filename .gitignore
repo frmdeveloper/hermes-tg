@@ -1,0 +1,22 @@
+# --- rahasia: JANGAN di-commit ---
+.env
+.env.local
+.env.*.local
+*.token
+credentials.json
+token.json
+
+# --- data runtime ---
+data/
+*.log
+logs/
+
+# --- dependensi ---
+node_modules/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

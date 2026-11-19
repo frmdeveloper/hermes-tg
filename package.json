@@ -1,0 +1,1 @@
+{"description":"Hermes — bot Telegram Node.js, backend AI 9router (vela1), model bisa diganti dari bot","engines":{"node":">=18"},"main":"index.js","name":"hermes-tg","scripts":{"start":"node index.js","test:router":"node test-router.js"},"type":"module","version":"1.0.0"}
